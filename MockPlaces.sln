@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockPlaces", "MockPlaces\MockPlaces.csproj", "{B92A5E11-F7C8-4FC5-9B6C-A6BF4F69D0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockPlaces.Tests", "MockPlaces.Tests\MockPlaces.Tests.csproj", "{351C2042-FE94-4F53-8CD9-C8C5AF0A748E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92A5E11-F7C8-4FC5-9B6C-A6BF4F69D0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92A5E11-F7C8-4FC5-9B6C-A6BF4F69D0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92A5E11-F7C8-4FC5-9B6C-A6BF4F69D0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92A5E11-F7C8-4FC5-9B6C-A6BF4F69D0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351C2042-FE94-4F53-8CD9-C8C5AF0A748E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351C2042-FE94-4F53-8CD9-C8C5AF0A748E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351C2042-FE94-4F53-8CD9-C8C5AF0A748E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351C2042-FE94-4F53-8CD9-C8C5AF0A748E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
